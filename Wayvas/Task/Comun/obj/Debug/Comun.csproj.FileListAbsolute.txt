@@ -1,0 +1,15 @@
+D:\Documentos\InteGrate\WebPrueba\STVP\Comun\bin\Debug\Comun.dll
+D:\Documentos\InteGrate\WebPrueba\STVP\Comun\bin\Debug\Comun.pdb
+D:\Documentos\InteGrate\WebPrueba\STVP\Comun\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\InteGrate\WebPrueba\STVP\Comun\obj\Debug\Comun.dll
+D:\Documentos\InteGrate\WebPrueba\STVP\Comun\obj\Debug\Comun.pdb
+C:\Wayvas\WebPrueba\STVP\Comun\bin\Debug\Comun.dll
+C:\Wayvas\WebPrueba\STVP\Comun\bin\Debug\Comun.pdb
+C:\Wayvas\WebPrueba\STVP\Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\Wayvas\WebPrueba\STVP\Comun\obj\Debug\Comun.dll
+C:\Wayvas\WebPrueba\STVP\Comun\obj\Debug\Comun.pdb
+C:\Wayvas\Task\Comun\bin\Debug\Comun.dll
+C:\Wayvas\Task\Comun\bin\Debug\Comun.pdb
+C:\Wayvas\Task\Comun\obj\Debug\ResolveAssemblyReference.cache
+C:\Wayvas\Task\Comun\obj\Debug\Comun.dll
+C:\Wayvas\Task\Comun\obj\Debug\Comun.pdb
